@@ -1,4 +1,5 @@
 # 🌹 Rose Leaf Disease Detection System
+Website live Link:  https://huggingface.co/spaces/parvez-kabir/rose-leaf-disease-detection
 
 A **production-grade, lightweight deep learning web application** for automatic detection of rose leaf diseases using **MobileNetV2**, deployed with **FastAPI** and hosted on **Hugging Face**.
 <img width="1420" height="898" alt="image" src="https://github.com/user-attachments/assets/2706586f-17d9-48d3-a4f6-7b94c7417823" />
